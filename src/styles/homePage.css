@@ -1,0 +1,14 @@
+.home-page-container{
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+.home-page-container .messages-info{
+    font-size:1.5vw;
+}
+.home-page-container .view-messages-btn{
+    width: 25%;
+    margin:0 auto;
+}

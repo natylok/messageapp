@@ -1,0 +1,7 @@
+.message-wrapper{
+    height: 100%;
+}
+.message-wrapper .card-message-container{
+    height: 50%;
+    margin-top: 2vw;
+}
